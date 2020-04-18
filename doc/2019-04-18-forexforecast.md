@@ -23,7 +23,7 @@ title: 相関係数を用いた為替レート予測
 
 2002年4月1日～2019年4月16日までのみずほ銀行の外国為替公示相場レートを使用した。第二公示が出された日もあったが第一公示のみを使用(それに加工しづらいデータだった)。
 
-[ヒストリカルデータ | みずほ銀行](https://www.mizuhobank.co.jp/market/historical.html)
+[ヒストリカルデータ - みずほ銀行](https://www.mizuhobank.co.jp/market/historical.html)
 
 #### 学習データとテストデータ
 

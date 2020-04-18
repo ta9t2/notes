@@ -23,7 +23,7 @@ Twitter上の懸賞に自動応募するBotにダイレクトメッセージを�
 
 Botの1つの機能として、DMを取得してメール送信するツールを追加した。メール送信時は前回取得したDMよりも新しい日時のDMを取得して送信する。
 
-[Twitter Contest Entry Bot | GitHub](https://github.com/ta9t2/twitter-contest-entry-bot/blob/master/README.ja.md)
+[Twitter Contest Entry Bot - GitHub](https://github.com/ta9t2/twitter-contest-entry-bot/blob/master/README.ja.md)
 
 #### 所感など
 
