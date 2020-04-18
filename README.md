@@ -1,6 +1,7 @@
 # notes
  
 雑記。調べたことなどを備忘録的に記載。
+[https://ta9t2.github.io/notes/](https://ta9t2.github.io/notes/)
 
 * [2019-04-04 Twitter懸賞自動応募Bot](https://ta9t2.github.io/notes/doc/2019-04-04-twctbot.html) - Twitter上の懸賞に自動応募するBotを作ったのでその記録。
 
